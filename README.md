@@ -1,4 +1,4 @@
-# Weather Data - Airflow
+# Dados Climáticos - Airflow
 
 Este repositório contém um DAG (datapipeline orquestrado pelo Airflow) escrito em Python que se comunica com uma [API de previsão do clima](https://www.visualcrossing.com/weather-api) para extrair dados sobre determinada cidade.
 O DAG contém 2 tarefas: a primeira cria uma pasta com a data da semana da extração de dados; a segunda se conecta à API, extrai os dados e os salva em 3 arquivos dentro da pasta da primeira tarefa - um arquivo com os dados brutos, outro com as temperaturas da semana e outro com as condições climáticas.
