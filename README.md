@@ -17,7 +17,7 @@ sudo apt upgrade
 
 ####  Usar diferentes versões do Python na mesma máquina:
 ```
-sudo add-apt-repository ppa:deadsnakes/ppa![image](https://user-images.githubusercontent.com/83846215/224797702-1e1c4c12-5ebc-495a-a82b-0a5fb01e3654.png)
+sudo add-apt-repository ppa:deadsnakes/ppa
 ```
 
 #### Instalar Python3.9 e o pacote de ambientes virtuais do Python3.9:
