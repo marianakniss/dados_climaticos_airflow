@@ -5,7 +5,7 @@ O DAG contém 2 tarefas: a primeira cria uma pasta com a data da semana da extra
 
 ## Preparação do ambiente
 
-Para o funcionamento do Airflow, é necessário um ambiente Unix (ou Docker em ambiente Windows), executando os comando abaixo dentro do diretório onde está o DAG:
+Para o funcionamento do Airflow, é necessário um ambiente Unix (ou Docker em ambiente Windows), executando os comandos abaixo dentro do diretório onde está o DAG:
 
 #### Atualizar pacotes:
 ```
